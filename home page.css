@@ -1,0 +1,38 @@
+body
+{
+    background-image: url("flood");
+         background-repeat: no-repeat;
+         background-size: cover;
+         background-attachment: scroll;
+     font-family:sans-serif;
+}
+.navbar-brand
+{
+    font-weight: 800;
+    font-size: 0.5cm;
+}
+.heading
+{
+         
+         background-repeat: no-repeat;
+         background-size: cover;
+         background-attachment: scroll;
+         color:white;
+         font-family:"san-serif";
+         position: absolute;
+         top:50%;
+         bottom:50%;
+         left:10%;
+}
+.head2
+{
+  text-shadow: 1px 1px black;
+}
+.fld
+{
+     color:white;
+     margin-left:0px;
+     margin-right:auto;
+     font-weight: bold;
+     font-size:19px;
+}

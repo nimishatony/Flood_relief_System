@@ -1,0 +1,55 @@
+*
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body
+{
+  background: rgb(224, 231, 231);
+}
+.row
+{
+   background: white;
+   border-radius: 15px;
+   
+}
+img 
+{
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+.btn1
+{
+  border: none;
+  outline: none;
+  height: 50px;
+  width: 315px;
+  background-color: black;
+  color: white;
+  border-radius: 4px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.form-control
+{
+  width: 300px;
+}
+.para
+{
+  padding-top: 2px;
+  font-weight: bold;
+}
+.btn1:hover
+{
+  background: white;
+  border: 1px solid;
+  color: black;
+}
+.navbar-brand
+{
+    font-weight: 800;
+    font-size: 0.5cm;
+}
+
+
